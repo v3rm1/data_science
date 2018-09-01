@@ -1,0 +1,8 @@
+# Folders
+**/output
+**/data
+**/__pycache__
+**/.ipynb_checkpoints
+**/.DS_Store
+# File extensions
+
